@@ -1,1 +1,2 @@
-# PaperTemplate
+# Academic Paper Template LaTeX
+

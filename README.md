@@ -1,2 +1,5 @@
-# Academic Paper Template LaTeX
+# Academic Paper Template LaTeX4
+
+For use on LuaLaTeX or XeLaTeX
+
 
